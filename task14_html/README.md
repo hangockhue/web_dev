@@ -6,19 +6,16 @@ Thực hiện : Khuê
   
 [2.Các thẻ định dạng văn bản](#tagvanban)
 <ul>  
-<li>      [a.Thẻ tiêu đề](#tieude) </li>  
+<li>      [a.Thẻ tiêu đề](#tieude)</li>
 <li>      [b.Văn bản](#vanban) </li>  
 <li>      [c.Danh sách](#danhsach) </li>
 <li>      [d.Các thẻ khác](#thekhac) </li>
 </ul>
-<ul>
-<li>		[1.1.Tìm hiểu về Tuples](#tup)</li>
-<li>		[1.1.Tập hợp sets](#se)</li>
-<li>		[1.1.Hàm dict()](#di)</li>
-</ul>
+
 [3.Thuộc tính của các thẻ](#thuoctinh)
 
 [4.Thẻ thông tin webside](#thongtin)
+<a name = "htmllagi"></a>
 ### 1.HTML là gì :
 
 HTML viết tắt của Hyper Text Markup Language là ngôn ngữ đánh dấu siêu văn bản dùng để tạo một trang web trên một website mỗi trang được gọi là một tài liệu website 
@@ -28,7 +25,7 @@ Một tài liệu HTML được tạo bởi cái phần tử HTML được gọi
 Mỗi tập tin HTML sẽ được lưu lại với đuôi mở rộng `.html` hoặc `.htm`
 
 HTML là bộ xương của website đống vai trò khai báo siêu văn bản cho website còn chỉnh sửa giao diện thuộc về CSS,JavaScrip.....
-
+<a name = "">tagvanban</a>
 ### 2.Các thẻ định dạng văn bản 
 
 Các thẻ được viết dưới dạng : `<thẻ> nội dung </thẻ>`
