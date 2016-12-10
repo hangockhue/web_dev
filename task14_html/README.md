@@ -72,4 +72,5 @@ Ngoài thẻ `<ol></ol>` ta còn có thẻ `<ul></ul>` không có sắp xếp c�
 Ví dụ :
 <img scr ="http://sv1.upsieutoc.com/2016/12/10/html3.png">
 
+d.Các thẻ khác
 
