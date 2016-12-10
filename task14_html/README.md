@@ -5,10 +5,15 @@ Thực hiện : Khuê
 [1.HTML là gì](#htmllagi)
   
 [2.Các thẻ định dạng văn bản](#tagvanban)
+  
   [a.Thẻ tiêu đề](#tieude)
+  
   [b.Văn bản](#vanban)
+  
   [c.Danh sách](#danhsach)
+  
   [d.Các thẻ khác](#thekhac)
+
 [3.Thuộc tính của các thẻ](#thuoctinh)
 
 [4.Thẻ thông tin webside](#thongtin)
