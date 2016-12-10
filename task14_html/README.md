@@ -80,4 +80,10 @@ Chèn thêm ảnh ta có thẻ `<img src =" Đường dẫn của ảnh"/>`
 
 Để chèn audio ta có thẻ `<audio></audio>` trong thẻ đó ta khai báo đường dẫn bằng thẻ `<source src="Đường dẫn />`
 
-https://repl.it/Em5l/0
+Để chèn một website ta có thẻ `<iframe src="link"></iframe>`
+
+Đề chèn link vào một nội dung ta có thẻ `<a href="link">nội dung</a>`
+
+Ví dụ :
+
+<img src="http://sv1.upsieutoc.com/2016/12/10/html4.png">
