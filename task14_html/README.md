@@ -25,14 +25,14 @@ Các thẻ được viết dưới dạng : `<thẻ> nội dung </thẻ>`
 
 Đối với thẻ ko đi theo cặp : `<thẻ> nội dung />`
 
-a.Thẻ tiêu đề :
+#### a.Thẻ tiêu đề :
 
 Trong HTML hổ trợ 6 thẻ tiêu đề : `<h1></h1> , <h2></h2> , <h3></h3> , <h4></h4> , <h5></h5> , <h6></h6>` 
 
 Nếu bạn dùng h7 trở lên nó sẽ thành dạng text bình thường . Ví dụ :
 <img src ="http://sv1.upsieutoc.com/2016/12/10/html1.png">
 
-b.Văn bản 
+#### b.Văn bản 
 
 Để khai báo một đoạn văn bản ta dùng thẻ : `<p></p>`
 
@@ -59,7 +59,7 @@ Xem thêm 1 số thẻ ở [đây](http://hocwebchuan.com/reference/tag/)
 
 Ví dụ :
 <img src ="http://sv1.upsieutoc.com/2016/12/10/html2.png">
-c.Danh sách trong HTML 
+#### c.Danh sách trong HTML 
 
 Để khai báo danh sách ta dùng thẻ : `<ol></ol>`
 
@@ -72,5 +72,5 @@ Ngoài thẻ `<ol></ol>` ta còn có thẻ `<ul></ul>` không có sắp xếp c�
 Ví dụ :
 <img src ="http://sv1.upsieutoc.com/2016/12/10/html3.png">
 
-d.Các thẻ khác
+#### d.Các thẻ khác
 
