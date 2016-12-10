@@ -95,3 +95,20 @@ Chèn thêm ảnh ta có thẻ `<img src =" Đường dẫn của ảnh"/>`
 Ví dụ :
 
 <img src="http://sv1.upsieutoc.com/2016/12/10/html4.png">
+
+### 3.Thuộc tính của các thẻ :
+
+Thuộc tính của các thẻ là phần mở rộng của các thẻ để chỉnh sửa phần văn bản hay siêu văn bản nằm trong các thẻ đó 
+
+Thuộc tính của thẻ có dạng như sau `<thẻ thuộctính="giátrị"> nội dung </thẻ>` trong một thẻ thì có thể có nhiều thuộc tính ngăn cách nhau bởi một ký tự trống.
+
+Ta có các thuộc tính thường sử dụng như : 
+
+`align="giátrị"` dịch chuyển văn bản theo chiều ngang với giá trị là left , right , center
+
+`valign` dịch chuyển văn bản theo chiều dọc với các giá trị là top, middle, bottom 
+
+`width` Xác định độ rộng của bảng, hình ảnh, video, hoặc ô trong bảng... với giá trị là số px
+
+`height` Xác định độ cao của bảng, hình ảnh, video, hoặc ô trong bảng... với giá trị là số px 
+
