@@ -6,13 +6,15 @@ Thực hiện : Khuê
   
 [2.Các thẻ định dạng văn bản](#tagvanban)
 <ul>  
-<li>      [a.Thẻ tiêu đề](#tieude) </li>
-  
-<li>      [b.Văn bản](#vanban) </li>
-  
+<li>      [a.Thẻ tiêu đề](#tieude) </li>  
+<li>      [b.Văn bản](#vanban) </li>  
 <li>      [c.Danh sách](#danhsach) </li>
-  
 <li>      [d.Các thẻ khác](#thekhac) </li>
+</ul>
+<ul>
+<li>		[1.1.Tìm hiểu về Tuples](#tup)</li>
+<li>		[1.1.Tập hợp sets](#se)</li>
+<li>		[1.1.Hàm dict()](#di)</li>
 </ul>
 [3.Thuộc tính của các thẻ](#thuoctinh)
 
