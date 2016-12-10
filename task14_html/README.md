@@ -112,3 +112,6 @@ Ta có các thuộc tính thường sử dụng như :
 
 `height` Xác định độ cao của bảng, hình ảnh, video, hoặc ô trong bảng... với giá trị là số px 
 
+`title` "Pop-up" tiêu đề của phần tử với giá trị là người dùng tự định nghĩa 
+
+
