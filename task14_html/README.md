@@ -73,4 +73,3 @@ Ví dụ :
 <img scr ="http://sv1.upsieutoc.com/2016/12/10/html3.png">
 
 
-
