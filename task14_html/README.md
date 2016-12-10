@@ -4,6 +4,8 @@ Thực hiện : Khuê
 
 [1.HTML là gì](#htmllagi)
 
+[2.Các thẻ định dạng văn bản](#tagvanban)
+
 
 ### 1.HTML là gì :
 
@@ -14,5 +16,13 @@ Một tài liệu HTML được tạo bởi cái phần tử HTML được gọi
 Mỗi tập tin HTML sẽ được lưu lại với đuôi mở rộng `.html` hoặc `.htm`
 
 HTML là bộ xương của website đống vai trò khai báo siêu văn bản cho website còn chỉnh sửa giao diện thuộc về CSS,JavaScrip.....
+
+### 2.Các thẻ định dạng văn bản 
+
+Các thẻ được viết dưới dạng : <thẻ> nội dung </ thể>
+
+a.Thẻ tiêu đề :
+
+Trong HTML hổ trợ 6 thẻ tiêu đề 
 
 
