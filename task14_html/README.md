@@ -6,14 +6,14 @@ Thực hiện : Khuê
   
 [2.Các thẻ định dạng văn bản](#tagvanban)
 <dl>  
-<dd>[a.Thẻ tiêu đề](#tieude)<\dd>
+<dd>[a.Thẻ tiêu đề](#tieude)</dd>
   
-<dd>[b.Văn bản](#vanban)<\dd>
+<dd>[b.Văn bản](#vanban)</dd>
   
-<dd>[c.Danh sách](#danhsach)<\dd>
+<dd>[c.Danh sách](#danhsach)</dd>
   
-<dd>[d.Các thẻ khác](#thekhac)<\dd>
-<\dl>
+<dd>[d.Các thẻ khác](#thekhac)</dd>
+</dl>
 [3.Thuộc tính của các thẻ](#thuoctinh)
 
 [4.Thẻ thông tin webside](#thongtin)
