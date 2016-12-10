@@ -58,7 +58,7 @@ Ghi chú trong HTML : `<!-- nội dung -->`
 Xem thêm 1 số thẻ ở [đây](http://hocwebchuan.com/reference/tag/)
 
 Ví dụ :
-<img scr ="http://sv1.upsieutoc.com/2016/12/10/html2.png">
+<img src ="http://sv1.upsieutoc.com/2016/12/10/html2.png">
 c.Danh sách trong HTML 
 
 Để khai báo danh sách ta dùng thẻ : `<ol></ol>`
@@ -70,7 +70,7 @@ Ngoài thẻ `<ol></ol>` ta còn có thẻ `<ul></ul>` không có sắp xếp c�
 Đối với danh sách có mô tả ta dùng thẻ `<dl></dl>` nhưng trong thẻ này ta không dùng thẻ `<li></li>` mà ta sử dụng thẻ `<dt></dt>` để khai báo danh mục và dùng thẻ `<dd></dd>` để khai báo mô tả cho danh mục 
 
 Ví dụ :
-<img scr ="http://sv1.upsieutoc.com/2016/12/10/html3.png">
+<img src ="http://sv1.upsieutoc.com/2016/12/10/html3.png">
 
 d.Các thẻ khác
 
