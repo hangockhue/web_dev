@@ -52,5 +52,5 @@ Thẻ định dạng sẵn : `<pre></pre>`
 
 Khai báo những đoạn code ngắn : `<code></code>`
 
-Xem thêm 1 số thẻ ở đây[http://hocwebchuan.com/reference/tag/]
+Xem thêm 1 số thẻ ở [đây](http://hocwebchuan.com/reference/tag/)
 
