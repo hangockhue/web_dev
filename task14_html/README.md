@@ -74,3 +74,8 @@ Ví dụ :
 
 #### d.Các thẻ khác
 
+Chèn thêm ảnh ta có thẻ `<img src =" Đường dẫn của ảnh"/>`
+
+Để chèn video ta có thẻ `<video></video>` trong thẻ đó ta khai báo đường dẫn bằng thẻ `<source src="Đường dẫn />`
+
+Để chèn audio ta có thẻ `<audio></audio>` trong thẻ đó ta khai báo đường dẫn bằng thẻ `<source src="Đường dẫn />`
