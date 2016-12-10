@@ -25,6 +25,9 @@ Các thẻ được viết dưới dạng : `<thẻ> nội dung </thẻ>`
 
 a.Thẻ tiêu đề :
 
-Trong HTML hổ trợ 6 thẻ tiêu đề : `<h1></h1> , <h2></h2> , <h3></h3> , <h4></h4> , <h5></h5> , <h6></h6>`
+Trong HTML hổ trợ 6 thẻ tiêu đề : `<h1></h1> , <h2></h2> , <h3></h3> , <h4></h4> , <h5></h5> , <h6></h6>` 
+
+Nếu bạn dùng h7 trở lên nó sẽ thành dạng text bình thường . Ví dụ :
+<img src ="http://sv1.upsieutoc.com/2016/12/10/html1.png">
 
 
