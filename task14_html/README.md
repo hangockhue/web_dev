@@ -6,7 +6,9 @@ Thực hiện : Khuê
 
 [2.Các thẻ định dạng văn bản](#tagvanban)
 
+[3.Thuộc tính của các thẻ](#thuoctinh)
 
+[4.Thẻ thông tin webside](#thongtin)
 ### 1.HTML là gì :
 
 HTML viết tắt của Hyper Text Markup Language là ngôn ngữ đánh dấu siêu văn bản dùng để tạo một trang web trên một website mỗi trang được gọi là một tài liệu website 
@@ -30,4 +32,25 @@ Trong HTML hổ trợ 6 thẻ tiêu đề : `<h1></h1> , <h2></h2> , <h3></h3> ,
 Nếu bạn dùng h7 trở lên nó sẽ thành dạng text bình thường . Ví dụ :
 <img src ="http://sv1.upsieutoc.com/2016/12/10/html1.png">
 
+b.Văn bản 
+
+Để khai báo một đoạn văn bản ta dùng thẻ : `<p></p>`
+
+Để in đậm một nội dung ta dùng thẻ : `<strong></strong>`
+
+Để in nghiêng một nội dung ta dùng : `<i></i>`
+
+Để gạch chân một nội dung ta dùng : `<u></u>`
+
+Để gạch ngang một nội dung ta dùng : `<strike></strike>`
+
+Gạch gang : `<hr>`
+
+Câu trích dẫn : `<quote></quote>`
+
+Thẻ định dạng sẵn : `<pre></pre>`
+
+Khai báo những đoạn code ngắn : `<code></code>`
+
+Xem thêm 1 số thẻ ở đây[http://hocwebchuan.com/reference/tag/]
 
