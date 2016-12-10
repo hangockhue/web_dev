@@ -3,9 +3,12 @@ Thực hiện : Khuê
 # Tìm hiểu về HTML
 
 [1.HTML là gì](#htmllagi)
-
+  
 [2.Các thẻ định dạng văn bản](#tagvanban)
-
+  [a.Thẻ tiêu đề](#tieude)
+  [b.Văn bản](#vanban)
+  [c.Danh sách](#danhsach)
+  [d.Các thẻ khác](#thekhac)
 [3.Thuộc tính của các thẻ](#thuoctinh)
 
 [4.Thẻ thông tin webside](#thongtin)
@@ -23,7 +26,7 @@ HTML là bộ xương của website đống vai trò khai báo siêu văn bản 
 
 Các thẻ được viết dưới dạng : `<thẻ> nội dung </thẻ>`
 
-Đối với thẻ ko đi theo cặp : `<thẻ> nội dung />`
+TĐối với thẻ ko đi theo cặp : `<thẻ> nội dung />`
 
 #### a.Thẻ tiêu đề :
 
