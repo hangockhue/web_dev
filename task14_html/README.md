@@ -6,13 +6,13 @@ Thực hiện : Khuê
   
 [2.Các thẻ định dạng văn bản](#tagvanban)
   
-  [a.Thẻ tiêu đề](#tieude)
+   [a.Thẻ tiêu đề](#tieude)
   
-  [b.Văn bản](#vanban)
+   [b.Văn bản](#vanban)
   
-  [c.Danh sách](#danhsach)
+   [c.Danh sách](#danhsach)
   
-  [d.Các thẻ khác](#thekhac)
+   [d.Các thẻ khác](#thekhac)
 
 [3.Thuộc tính của các thẻ](#thuoctinh)
 
