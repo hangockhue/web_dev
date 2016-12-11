@@ -141,7 +141,16 @@ Thẻ `<body></body>` thẻ này sẽ chứa toàn bộ nội dung của trang w
 <a name = "form"></a>
 ### 5.Tạo form nhập dữ liệu 
 
+Tạo một cái form nhập dữ liệu cho html tạo ra một cái form để gửi đi dữ liệu như form đăng nhập , đăng kí ....
 
+Thẻ khai báo form là : `<form></form>` trong thẻ này có những thuộc tính phải có như `action` dùng để khai báo đường dẫn khi người dùng bấm phim submit(gửi dữ liệu đi) ; thuộc tính `method` nghĩa là khai báo dữ liệu gửi đi theo phương thức nào có 2 giá trị là `post` và `get` ; thuộc tính nữa đó là `name` là tên của form với giá trị là người dùng tự đặt .
+
+Trong form phải có các trường nhập dữ liệu , để khai báo trường nhập dữ liệu ta có thẻ `<input />` trong thẻ này có các thuộc tính là `type` là loại dữ liệu nhập vào với các giá trị như `number` , `color`  , `date` ,`email`, `text` ... ;  thuộc tính `name` là khai báo tên của trường dữ liệu  
+
+Và để gửi đi bạn dùng thuộc tính `submit` trong thẻ `<input />` để đặt tên cho gửi đi bạn dùng thuộc tính `value` 
+
+Ví dụ như : 
+<img src="http://sv1.upsieutoc.com/2016/12/11/html5.png">
 
 
 
