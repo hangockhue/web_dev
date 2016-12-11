@@ -6,7 +6,7 @@ Thực hiện : Khuê
   
 [2.Các thẻ định dạng văn bản](#tagvanban)
 <ul>  
-<li>      [a.Thẻ tiêu đề](#tieude)</li>
+<li>[thẻ tiêu đề](#tieude)</li>
 <li>      [b.Văn bản](#vanban) </li>  
 <li>      [c.Danh sách](#danhsach) </li>
 <li>      [d.Các thẻ khác](#thekhac) </li>
