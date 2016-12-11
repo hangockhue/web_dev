@@ -113,7 +113,18 @@ Ta có các thuộc tính thường sử dụng như :
 
 `title` "Pop-up" tiêu đề của phần tử với giá trị là người dùng tự định nghĩa 
 
-`color` thay đổi màu chữ của nội dung với giá trị là mã số màu trong bảng [mã](http://www.w3schools.com/cssref/css_colors.asp)
+`style` có thẻ thay đổi các thuộc tính của văn bản như màu chữ với giá trị trong bảng [mã](http://www.w3schools.com/cssref/css_colors.asp) với tên khai báo là `color` , thay đổi màu nền của nội dung với giá trị là mã màu tên là `background-color`, tiếp theo là `font-size` dùng để thay đổi kích thước chữ với giá trị là số px và `font-family` để thay đổi font chữ của nội dung 
+
+Ví dụ của thuộc tính `style` : `<p style="color: mãmàu; font-size=nãmàu>nội dung</p>` trong thuộc tính style có nhiều giá trị được chia ra bởi dấu `:` 
+
+`target` thuộc tính cho phép thiết lập cửa sổ liên kết có các giá trị là `_blank` ,`_self` 
+
+`id` đặt tên một phần tử để sử dụng với Cascading Style Sheets có giá trị là người dùng tự đặt dùng để đánh dấu một dòng muốn nhảy để với khai báo ta dùng thẻ `<a hef="giátrị">nội dung</a>`
+
+
+
+
+
 
 
 
