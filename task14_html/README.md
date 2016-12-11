@@ -6,10 +6,10 @@ Thực hiện : Khuê
   
 [2.Các thẻ định dạng văn bản](#tagvanban)
 <ul>  
-<li>(thẻ tiêu đề)(#tieude)</li>
-<li>      [b.Văn bản](#vanban) </li>  
-<li>      [c.Danh sách](#danhsach) </li>
-<li>      [d.Các thẻ khác](#thekhac) </li>
+<li>a.Thẻ tiêu đề</li>
+<li>b.Văn bản </li>  
+<li>c.Danh sách </li>
+<li>d.Các thẻ khác </li>
 </ul>
 
 [3.Thuộc tính của các thẻ](#thuoctinh)
@@ -112,5 +112,9 @@ Ta có các thuộc tính thường sử dụng như :
 `height` Xác định độ cao của bảng, hình ảnh, video, hoặc ô trong bảng... với giá trị là số px 
 
 `title` "Pop-up" tiêu đề của phần tử với giá trị là người dùng tự định nghĩa 
+
+`color` thay đổi màu chữ của nội dung với giá trị là mã số màu trong bảng [mã](http://www.w3schools.com/cssref/css_colors.asp)
+
+
 
 
