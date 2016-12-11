@@ -15,6 +15,8 @@ Thực hiện : Khuê
 [3.Thuộc tính của các thẻ](#thuoctinh)
 
 [4.Thẻ thông tin webside](#thongtin)
+
+[5.Tạo form nhập dữ liệu](#form)
 <a name = "htmllagi"></a>
 ### 1.HTML là gì :
 
@@ -95,6 +97,7 @@ Ví dụ :
 
 <img src="http://sv1.upsieutoc.com/2016/12/10/html4.png">
 
+<a name = "thuoctinh"></a>
 ### 3.Thuộc tính của các thẻ :
 
 Thuộc tính của các thẻ là phần mở rộng của các thẻ để chỉnh sửa phần văn bản hay siêu văn bản nằm trong các thẻ đó 
@@ -120,7 +123,23 @@ Ví dụ của thuộc tính `style` : `<p style="color: mãmàu; font-size=nãm
 `target` thuộc tính cho phép thiết lập cửa sổ liên kết có các giá trị là `_blank` ,`_self` 
 
 `id` đặt tên một phần tử để sử dụng với Cascading Style Sheets có giá trị là người dùng tự đặt dùng để đánh dấu một dòng muốn nhảy để với khai báo ta dùng thẻ `<a hef="giátrị">nội dung</a>`
+<a name = "thongtin"></a>
+### 4 Thẻ thông tinh website:
 
+Những thẻ này không giúp hiển thị trên một trang web mà chỉ tạo nên thông tin của trang web đó 
+
+Thẻ đầu tiên trong tài liệu HTML là thẻ `<!DOCTYPE html>`
+
+Thẻ tiếp theo là thẻ `<html></html>` trong thẻ này có một thuộc tính là `lang` để chỉ ra mã ngôn ngữ mà website sử dụng và cái thẻ này là bao bọc toàn bộ nội dung của website 
+
+Tiếp theo là thẻ `<head></head>` khai báo thông tin của website ở trong này , trong này có thẻ `<title></title>` dùng để khai báo tên website của bạn 
+
+Thẻ `<meta />` trong thẻ này có thuộc tính dùng để khai báo bảng mã mà chúng ta sử dụng trong trang web 
+
+Thẻ `<body></body>` thẻ này sẽ chứa toàn bộ nội dung của trang web của bạn 
+
+<a name = "form"></a>
+### 5.Tạo form nhập dữ liệu 
 
 
 
