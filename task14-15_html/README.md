@@ -123,6 +123,10 @@ Ví dụ của thuộc tính `style` : `<p style="color: mãmàu; font-size=nãm
 `target` thuộc tính cho phép thiết lập cửa sổ liên kết có các giá trị là `_blank` ,`_self` 
 
 `id` đặt tên một phần tử để sử dụng với Cascading Style Sheets có giá trị là người dùng tự đặt dùng để đánh dấu một dòng muốn nhảy để với khai báo ta dùng thẻ `<a hef="giátrị">nội dung</a>`
+
+`charset` dùng để khai báo bảng mã sử dụng với giá trị là bảng mã
+
+`name` là khai báo tên mô tả và `content` là khai báo nội dung mô tả đó 
 <a name = "thongtin"></a>
 ### 4 Thẻ thông tinh website:
 
@@ -134,9 +138,10 @@ Thẻ tiếp theo là thẻ `<html></html>` trong thẻ này có một thuộc t
 
 Tiếp theo là thẻ `<head></head>` khai báo thông tin của website ở trong này , trong này có thẻ `<title></title>` dùng để khai báo tên website của bạn 
 
-Thẻ `<meta />` trong thẻ này có thuộc tính dùng để khai báo bảng mã mà chúng ta sử dụng trong trang web 
+Thẻ `<meta />` trong thẻ này có thuộc tính dùng để khai báo bảng mã mà chúng ta sử dụng trong trang web như : thuộc tính `charset` dùng để khai báo bảng mã sử dụng với giá trị là bảng mã ; `name` có giá trị là description là mô tả tài liệu và `content` dùng để khai báo mô ta cho nó ;
 
 Thẻ `<body></body>` thẻ này sẽ chứa toàn bộ nội dung của trang web của bạn 
+
 
 <a name = "form"></a>
 ### 5.Tạo form nhập dữ liệu 
