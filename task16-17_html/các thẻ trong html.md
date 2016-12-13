@@ -4,17 +4,29 @@ Thẻ `<!--...-->` và thẻ `<comment>`	Xác định một comment
 Thẻ `<!DOCTYPE>`	Xác định kiểu tài liệu	 
 Thẻ `<a>`	Xác định một anchor	 
 Thẻ `<abbr>`	Xác định một tóm tắt	 
+
 Thẻ `<acronym>`	Xác định một tên lược danh (tên viết gọn)	 
+
 Thẻ `<address>`	Xác định một phần tử địa chỉ	 
+
 Thẻ `<applet>`	Xác định một vi mã	 
+
 Thẻ `<area>`	Xác định một khu vực bên trong Image Map	 
+
 Thẻ `<article>`	Xác định một mục HTML-5
+
 Thẻ `<aside>`	Xác định một vài nội dung liên quan đến nội dung trang. Nếu nó bị di chuyển, phần nội dung còn lại vẫn được hiểu	HTML-5
+
 Thẻ `<audio>`	Xác định nội dung âm thanh	HTML-5
+
 Thẻ `<b>`	Xác định phần văn bản in đậm	 
+
 Thẻ `<base>`	Xác định một liên kết URL cơ sở cho tất cả các link trong một trang	 
+
 Thẻ `<basefont>`	Thẻ cũ. Xác định một font cơ sở	 
+
 Thẻ `<bdo>`	Xác định điều hướng của văn bản hiển thị	 
+
 Thẻ `<bdi>`	Phần văn bản đại diện phải được phân biệt với xung quanh nó để cho việc định dạng văn bản hai chiều. Nó cho phép nhúng một đoạn văn bản với khả năng định hướng khác nhau hoặc không biết trước.	HTML-5
 Thẻ `<bgsound`>	Xác định nhạc nền	 
 Thẻ `<big>`	Xác định độ lớn văn bản	 
