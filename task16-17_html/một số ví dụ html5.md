@@ -20,5 +20,17 @@ Ví dụ bạn có thể tạo ra một form tính phép cộng với thẻ inpu
 </form>
 ```
 
-Nếu bạn muốn thể hiện một quá trình đang load dữ liệu hay hoạt động thì html5 có hổ trợ thẻ `<progress>` để thể thiện quá trình đó
-<p>Quá trình download được: <progress>90%</progress></p>
+Nếu bạn muốn thể hiện một quá trình đang load dữ liệu hay hoạt động thì html5 có hổ trợ thẻ `<progress>` để thể thiện quá trình đó nhập đoạn code này và thấy kết quả `<p>Quá trình download được: <progress>90%</progress></p>`
+
+HTML5 cung cấp các thẻ `<audio>` hay `<video>` để định nghĩa các siêu văn bản nằm trong thẻ đó .
+
+Các thẻ hổ trợ việc nhập dữ liệu như `<keygen>` xác định một cặp trường khóa chính sử dụng cho `<form>`.
+Khi `<form>` được submit các khoá riêng (private key) được lưu trữ tại địa phương, và các khóa chung được gửi (public key) đến máy chủ
+
+Và `<datalist>` định nghĩa một danh sách tùy chọn.
+Tag `<datalist>` được sử dụng cùng với các thành phần `<input />` nhằm xác định giá trị các thành phần `<input />` có thể có (tương tự như `<select> - <option>`).
+Sử dụng thuộc tính list trong `<input />` để cho biết thành phần `<input />` nào liên quan đến `<datalist>`.
+
+Ta có một số ví dụ như : 
+
+<img src ="http://sv1.upsieutoc.com/2016/12/14/html8.png">
