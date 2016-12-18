@@ -34,3 +34,11 @@
 
 17.Thuộc tính Possition
 
+18.Pseudo-Classes
+
+19.Làm menu ngang cho dropdow cơ bản
+
+20.Làm menu dọc cho dropdow cơ bản 
+
+
+
