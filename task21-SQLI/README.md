@@ -1,4 +1,5 @@
-1 .SQLI hay còn gọi là SQL injection là một kỷ thuật cho phép lợi dụng lỗ hổng của việc kiểm tra dữ liệu đầu vào trong các ứng dụng web và các thông báo lỗ của hệ quản trị cơ sở dữ liệu trả về để inject(tiêm vào) và thi hành các câu lệnh SQL bất hợp pháp . SQL injection có thể cho phép những kẻ tấn công thực hiện các thao tác : DELETE , INSERT , UPDATE ... trên cở sở dữ liệu của ứng dụng thậm chí là server mà ứng dụng đó đang chạy . SQLI thường được biết đến như một vật trung gian tấn công trên các ứng dụng web có dữ liệu được quản lý bằng các hệ quản trị cơ sở dữ liệu như SQL Server , MySQL , Oracle , DB2 , Sysbase ...
+### 1 .SQLI hay còn gọi là SQL injection 
+là một kỷ thuật cho phép lợi dụng lỗ hổng của việc kiểm tra dữ liệu đầu vào trong các ứng dụng web và các thông báo lỗ của hệ quản trị cơ sở dữ liệu trả về để inject(tiêm vào) và thi hành các câu lệnh SQL bất hợp pháp . SQL injection có thể cho phép những kẻ tấn công thực hiện các thao tác : DELETE , INSERT , UPDATE ... trên cở sở dữ liệu của ứng dụng thậm chí là server mà ứng dụng đó đang chạy . SQLI thường được biết đến như một vật trung gian tấn công trên các ứng dụng web có dữ liệu được quản lý bằng các hệ quản trị cơ sở dữ liệu như SQL Server , MySQL , Oracle , DB2 , Sysbase ...
 
 SQLI xãy ra khi có lỗ hổng bảo mật SQLI , một trong những lỗ hổng bảo mật và quy hiểm nhất 
 
@@ -10,7 +11,8 @@ Tác hại của SQLI
 
 - Khai thác Sql Injection, ngoài việc đoạt được quyền kiểm soát về mặt dữ liệu như đã nói ở trên, hacker còn có thể cài đặt backdoor trên server mà ứng dụng đang chạy, qua đó kiểm soát toàn bộ hệ thống…
 
-2.IMFORMATION_SCHEMA trong MySQL là cơ sở dữ liệu thông tin , tại đây lưu trữ các thông tin của các cơ sở dữ liệu khác của MySQL . Trong cơ sỡ dữ lieeuuj INFORMATION_SCHEMA chứa một vài bẳng có thuộc tính chỉ đọc . Chúc thực ra chỉ là cái view , không phải là bảng dữ liệu , vì vậy mà không có các file lưu trữ riêng( các bảng đều có các file chứa dữ liệu của bảng nằm trên ổ đĩa) . Cũng chính vì các view mà người dùng không thể thiết lập các Trigger ( các câu lệnh ) lên chúng và đồng thời không có thư mục dữ liệu riêng 
+### 2.IMFORMATION_SCHEMA trong MySQL 
+là cơ sở dữ liệu thông tin , tại đây lưu trữ các thông tin của các cơ sở dữ liệu khác của MySQL . Trong cơ sỡ dữ lieeuuj INFORMATION_SCHEMA chứa một vài bẳng có thuộc tính chỉ đọc . Chúc thực ra chỉ là cái view , không phải là bảng dữ liệu , vì vậy mà không có các file lưu trữ riêng( các bảng đều có các file chứa dữ liệu của bảng nằm trên ổ đĩa) . Cũng chính vì các view mà người dùng không thể thiết lập các Trigger ( các câu lệnh ) lên chúng và đồng thời không có thư mục dữ liệu riêng 
 
 Trong INFORMATION_SCHEMA có nhiều bảng và view tuy nhiên có lẽ hay sử dụng nhiều nhất là các bảng TABLES , COLUMNS và USER_PRIVILEGES .
 
@@ -20,7 +22,7 @@ Bảng COLUMNS chứa tất cả các thông tin về các cột của các bả
 
 Bảng USER-PRIVILEGES chứa tất cả cá thông tin về quyền truy cập của các người dùng đối với mỗi cơ sở dữ liệu . 
 
-3.Demo Lab
+### 3.Demo Lab
 
 Đầu tiên ta sẽ đi tìm những site có địa chỉ là product_detail id=
 
