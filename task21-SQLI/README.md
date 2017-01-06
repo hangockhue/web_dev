@@ -36,11 +36,19 @@ Rồi ta sử dụng lệnh `ORDER BY` để tìm số cột của cái bảng t
 
 Sau khi thử các trường hợp thì ta thấy site trên có 4 cột 
 
+<img src="https://uphinhnhanh.com/images/2017/01/06/pen3ae5b9.png" alt="pen3ae5b9.png" border="0" />
+
 Sau đó tìm xem trong cột nào chứa giá trị lỗi ta dùng lệnh UNION SELECT câu lệnh này để nổi kết quả của các câu truy vấn . Nếu có lỗi thì truy vấn sẽ lỗi
+
+<a href="https://uphinhnhanh.com/image/Pr1"><img src="https://uphinhnhanh.com/images/2017/01/06/pen4d9a0f.png" alt="pen4d9a0f.png" border="0" /></a>
 
 Vậy cột 2 sẽ chứa giá trị lỗi
 
 Bây giờ ta sẽ truy vấn vào giá trị của cột 2
+
+Ta thay đổi các từ khóa để truy vấn ứng với nội dung truy vấn vào số  2 
+
+<img src="https://uphinhnhanh.com/images/2017/01/06/pen55624e.png" alt="pen55624e.png" border="0" />
 
 Bây giờ ta tiến hành truy vấn vào database thông qua information_schema
 
@@ -48,15 +56,21 @@ Bây giờ ta tiến hành truy vấn vào database thông qua information_schem
 
 Ta tìm được tên các bảng trong data base đó 
 
+<img src="https://uphinhnhanh.com/images/2017/01/06/pen69b677.png" alt="pen69b677.png" border="0" />
+
 Nhận thấy có 1 bảng có tên là users . Nên đây có thể là bảng chứa các thông tin về người sử dụng
 
 Ta truy vấn vào bảo đó để lấy ra các tên cột 
 
+<a href="https://uphinhnhanh.com/image/PA8"><img src="https://uphinhnhanh.com/images/2017/01/06/pen782f88.png" alt="pen782f88.png" border="0" /></a>
+
 Sau khi truy vấn ta nhận được dữ liệu 
+
+<img src="https://uphinhnhanh.com/images/2017/01/06/pen8cebaf.png" alt="pen8cebaf.png" border="0" />
 
 Ta thấy mật khẩu có dạng mã hóa MD5 sau khi giải mã ta có mật khẩu là  P4ssw0rd
 
 
 
-Ta thay đổi các từ khóa để truy vấn ứng với nội dung truy vấn vào số  2 
+
 
