@@ -10,9 +10,6 @@ Tác hại của SQLI
 
 - Khai thác Sql Injection, ngoài việc đoạt được quyền kiểm soát về mặt dữ liệu như đã nói ở trên, hacker còn có thể cài đặt backdoor trên server mà ứng dụng đang chạy, qua đó kiểm soát toàn bộ hệ thống…
 
-
----------------
-
 IMFORMATION_SCHEMA trong MySQL là cơ sở dữ liệu thông tin , tại đây lưu trữ các thông tin của các cơ sở dữ liệu khác của MySQL . Trong cơ sỡ dữ lieeuuj INFORMATION_SCHEMA chứa một vài bẳng có thuộc tính chỉ đọc . Chúc thực ra chỉ là cái view , không phải là bảng dữ liệu , vì vậy mà không có các file lưu trữ riêng( các bảng đều có các file chứa dữ liệu của bảng nằm trên ổ đĩa) . Cũng chính vì các view mà người dùng không thể thiết lập các Trigger ( các câu lệnh ) lên chúng và đồng thời không có thư mục dữ liệu riêng 
 
 Trong INFORMATION_SCHEMA có nhiều bảng và view tuy nhiên có lẽ hay sử dụng nhiều nhất là các bảng TABLES , COLUMNS và USER_PRIVILEGES .
@@ -23,13 +20,17 @@ Bảng COLUMNS chứa tất cả các thông tin về các cột của các bả
 
 Bảng USER-PRIVILEGES chứa tất cả cá thông tin về quyền truy cập của các người dùng đối với mỗi cơ sở dữ liệu . 
 
-----------------------
+Demo Lab
 
 Đầu tiên ta sẽ đi tìm những site có địa chỉ là product_detail id=
 
 Nhận thấy http://192.168.1.7/cat.php?id=1 là một địa chỉ phù hợp
 
+<img src="https://uphinhnhanh.com/images/2017/01/06/pen10490b.png" alt="pen10490b.png" border="0" />
+
 Sau đó ta thêm dấu `'` ở phía sau đường link nếu site thay đổi nghĩa là site đó có lỗi
+
+<img src="https://uphinhnhanh.com/images/2017/01/06/pen2933d8.png" alt="pen2933d8.png" border="0" />
 
 Rồi ta sử dụng lệnh `ORDER BY` để tìm số cột của cái bảng trong site
 
