@@ -2,7 +2,7 @@
 
 Thực hiện : Hà Ngọc Khuê
 
-1. Lỗi 
+## 1 Lỗi 
 
 Ta thêm ' vào sau URL ta thấy xuất hiện lỗi SQLI
 
@@ -28,5 +28,20 @@ Lúc đó nó sẽ in ra toàn bộ dữ liệu không mong muốn trong databas
 
 <img src="http://sv1.upsieutoc.com/2017/02/12/Untitled4bfaf.png" alt="Untitled4bfaf.png" border="0" />
 
-2. Khác phục 
+## 2 Khắc phục 
 
+Để khắc phục lỗi trên, ta cần xử lý các biến trong mã PHP bằng cách sử dụng hàm addslashes(): nó sẽ thêm dấu gạch chéo `\` vào trước các ký tự nháy đơn, nháy kép, null, gạch chéo.
+
+Trước khi khác phục 
+
+<img src="http://sv1.upsieutoc.com/2017/02/12/Untitled1.png" alt="Untitled1.png" border="0" />
+
+Sau khi khác phục 
+
+<img src="http://sv1.upsieutoc.com/2017/02/12/Untitled2.png" alt="Untitled2.png" border="0" />
+
+Đây là 2 host 
+
+[Lỗi](http://trainphp.pe.hu/)
+
+[Đã Fix](http://trainphp.pe.hu/dafix.php)
