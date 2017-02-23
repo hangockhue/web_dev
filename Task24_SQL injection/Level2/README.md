@@ -13,8 +13,9 @@ Trong đó có hàm preg_match() được dùng để kiểm tra, so khớp và 
 preg_match ( $pattern , $subject, &$matches)
 
 Trong đó:
-	$pattern là biểu thức Regular Expression
-	$subject là chuỗi cần kiểm tra
-	$matches là kết quả trả về, đây là một tham số truyền vào ở dạng tham chiếu.
-
+<ul>
+	<li>$pattern là biểu thức Regular Expression</li>
+	<li>$subject là chuỗi cần kiểm tra</li>
+	<li>$matches là kết quả trả về, đây là một tham số truyền vào ở dạng tham chiếu.</li>
+</ul>
 Chúng ta có thể bỏ qua $matches vì nó là một tham số thứ 3 nên không cần truyền vào cũng được 
