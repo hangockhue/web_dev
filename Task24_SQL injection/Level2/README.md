@@ -25,4 +25,6 @@ Ta chỉ cần thêm cậu lệnh vào như thế này
 <img src="http://sv1.upsieutoc.com/2017/02/23/ex2-1.png" alt="ex2-1.png" border="0" />
 
 [Demo lỗi](http://trainphp.pe.hu/testex2.php)
+
+
 [Fix lỗi](http://trainphp.pe.hu/dafix.php)
