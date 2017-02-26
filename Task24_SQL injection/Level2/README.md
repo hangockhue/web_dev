@@ -28,3 +28,17 @@ Ta chỉ cần thêm cậu lệnh vào như thế này
 
 
 [Fix lỗi](http://trainphp.pe.hu/dafix.php)
+
+## Update tìm pass
+
+Vì câu lệnh nhập vào không được có dấu cách nên ta có thể thay bằng kí tự trắng với mã hóa url 
+
+Các bước thực hiện như level 1
+
+<img src="http://sv1.upsieutoc.com/2017/02/26/e2-1.png" alt="e2-1.png" border="0" />
+
+<img src="http://sv1.upsieutoc.com/2017/02/26/e2-2.png" alt="e2-2.png" border="0" />
+
+<img src="http://sv1.upsieutoc.com/2017/02/26/e2-3.png" alt="e2-3.png" border="0" />
+
+<img src="http://sv1.upsieutoc.com/2017/02/26/e2-4.png" alt="e2-4.png" border="0" />
