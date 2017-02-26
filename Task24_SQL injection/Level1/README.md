@@ -45,3 +45,19 @@ Sau khi khác phục
 [Lỗi](http://trainphp.pe.hu/)
 
 [Đã Fix](http://trainphp.pe.hu/dafix.php)
+
+## Update tìm pass
+Đâu tiên ta thức tìm một vài thông số liên quan đến SQL
+<img src="http://sv1.upsieutoc.com/2017/02/26/e1-2.png" alt="e1-2.png" border="0" />
+
+Tiếp theo ta tìm tên các bảng trong SQL để xem bảng nào có thể chứa password
+<img src="http://sv1.upsieutoc.com/2017/02/26/ex2-2.png" alt="ex2-2.png" border="0" />
+
+Tiếp theo ta show ra các cột trong các bảng đó 
+<img src="http://sv1.upsieutoc.com/2017/02/26/e1-3.png" alt="e1-3.png" border="0" />
+
+Cuối cùng in ra password cũng như username 
+<img src="http://sv1.upsieutoc.com/2017/02/26/e1-4.png" alt="e1-4.png" border="0" />
+
+Cách khác của bước cuối 
+<img src="http://sv1.upsieutoc.com/2017/02/26/ex-5.png" alt="ex-5.png" border="0" />
